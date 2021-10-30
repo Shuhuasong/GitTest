@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i(TAG, "my test");
+        Log.i(TAG, "my test2");
+        Log.i(TAG, "my test3");
     }
 }
